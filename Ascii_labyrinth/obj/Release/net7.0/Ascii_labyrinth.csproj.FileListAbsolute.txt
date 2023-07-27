@@ -1,0 +1,15 @@
+C:\Users\Raphael\source\repos\Ascii_labyrinth\bin\Release\net7.0\Ascii_labyrinth.exe
+C:\Users\Raphael\source\repos\Ascii_labyrinth\bin\Release\net7.0\Ascii_labyrinth.deps.json
+C:\Users\Raphael\source\repos\Ascii_labyrinth\bin\Release\net7.0\Ascii_labyrinth.runtimeconfig.json
+C:\Users\Raphael\source\repos\Ascii_labyrinth\bin\Release\net7.0\Ascii_labyrinth.dll
+C:\Users\Raphael\source\repos\Ascii_labyrinth\bin\Release\net7.0\Ascii_labyrinth.pdb
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\Ascii_labyrinth.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\Ascii_labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\Ascii_labyrinth.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\Ascii_labyrinth.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\Ascii_labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\Ascii_labyrinth.dll
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\refint\Ascii_labyrinth.dll
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\Ascii_labyrinth.pdb
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\Ascii_labyrinth.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\Ascii_labyrinth\obj\Release\net7.0\ref\Ascii_labyrinth.dll
