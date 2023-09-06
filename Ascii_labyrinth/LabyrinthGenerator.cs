@@ -26,6 +26,7 @@ namespace Ascii_labyrinth
             //-Cell to remove
             //make The exit
             //coins
+            //test
 
 
 

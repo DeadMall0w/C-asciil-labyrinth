@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raphael\\source\\repos\\Ascii_labyrinth\\Ascii_labyrinth.csproj": {}
+    "E:\\git\\C-asciil-labyrinth\\Ascii_labyrinth\\Ascii_labyrinth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raphael\\source\\repos\\Ascii_labyrinth\\Ascii_labyrinth.csproj": {
+    "E:\\git\\C-asciil-labyrinth\\Ascii_labyrinth\\Ascii_labyrinth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raphael\\source\\repos\\Ascii_labyrinth\\Ascii_labyrinth.csproj",
+        "projectUniqueName": "E:\\git\\C-asciil-labyrinth\\Ascii_labyrinth\\Ascii_labyrinth.csproj",
         "projectName": "Ascii_labyrinth",
-        "projectPath": "C:\\Users\\Raphael\\source\\repos\\Ascii_labyrinth\\Ascii_labyrinth.csproj",
+        "projectPath": "E:\\git\\C-asciil-labyrinth\\Ascii_labyrinth\\Ascii_labyrinth.csproj",
         "packagesPath": "C:\\Users\\Raphael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raphael\\source\\repos\\Ascii_labyrinth\\obj\\",
+        "outputPath": "E:\\git\\C-asciil-labyrinth\\Ascii_labyrinth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
