@@ -7,7 +7,7 @@ This project was created with Visual Studio in C#. This mini-game runs in the C#
 
 The maze is created thanks to ** algorithm.
 
-![image](https://github.com/DeadMall0w/Devoir-ENT/Maze.gif)
+![image](https://github.com/DeadMall0w/C-asciil-labyrinth/blob/main/Maze.gif
 
 # Utilisation
 To move, use the keys z, q, s, d.
