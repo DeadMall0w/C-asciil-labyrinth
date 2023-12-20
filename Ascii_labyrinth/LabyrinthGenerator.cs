@@ -55,6 +55,27 @@ namespace Ascii_labyrinth
             }
         }
 
+        /*static void ShowMap()
+        {
+            Console.Clear();
+            for (int x = 0; x < data.size; x++)
+            {
+                for (int y = 0; y < data.size; y++)
+                {
+                    if (map[x,y] == 0 || map[x,y] == 10)
+                    {
+                        Console.Write("  ");
+                    }
+                    else
+                    {
+                        Console.Write("▓▓");
+                    }
+                }
+                Console.WriteLine("");
+            }
+             Console.ReadKey();
+        }*/
+
         static void MakePath()
         {
             List<Cell> pile = new List<Cell>();
@@ -65,6 +86,7 @@ namespace Ascii_labyrinth
             Random rand = new Random();
             do
             {
+                //ShowMap();
                 Cell[] neighbourCells = GetNeighbourCell(x, y);
 
 

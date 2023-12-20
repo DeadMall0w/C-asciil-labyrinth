@@ -12,7 +12,7 @@ namespace _3D_Renderer
 {
     internal class Program
     {
-        static int mapSize = 33;
+        static int mapSize = 20;
         static int[,] map; // 0 : empty, 1 : wall, 2 coins, 10 empty ntD, 11 : wall ntD, 12 : coins ntD
 
         static int playerX = 1;
