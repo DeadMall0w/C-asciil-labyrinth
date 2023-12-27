@@ -1,4 +1,4 @@
-# C-asciil-maze
+# C-sharp-asciil-maze
 This project was created with Visual Studio in C#. This mini-game runs in the C# console, using only ASCII characters.
 
 ![image](https://github.com/DeadMall0w/C-asciil-labyrinth/blob/main/Gameplay.gif)
