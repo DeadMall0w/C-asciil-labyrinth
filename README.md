@@ -5,7 +5,7 @@ This project was created with Visual Studio in C#. This mini-game runs in the C#
 ![image](https://github.com/DeadMall0w/C-asciil-labyrinth/assets/100719400/fca00603-e475-4063-a79f-af1a70f741e8)
 
 
-The maze is created thanks to ** algorithm.
+The maze is created thanks to **Depth-First Search** algorithm.
 
 ![image](https://github.com/DeadMall0w/C-asciil-labyrinth/blob/main/Maze.gif)
 
