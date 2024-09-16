@@ -10,6 +10,10 @@ The maze is created thanks to **Depth-First Search** algorithm.
 ![image](https://github.com/DeadMall0w/C-asciil-labyrinth/blob/main/Maze.gif)
 
 # Utilisation
+## Initialisation
+You need to have dotnet 8.0.0 installed on your computer [Download here](https://dotnet.microsoft.com/fr-fr/download/dotnet/8.0)
+
+## Play
 To move, use the keys z, q, s, d.
 
 # Licence
