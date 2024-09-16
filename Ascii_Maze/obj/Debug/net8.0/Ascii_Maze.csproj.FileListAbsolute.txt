@@ -1,0 +1,15 @@
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\bin\Debug\net8.0\Ascii_Maze.exe
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\bin\Debug\net8.0\Ascii_Maze.deps.json
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\bin\Debug\net8.0\Ascii_Maze.runtimeconfig.json
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\bin\Debug\net8.0\Ascii_Maze.dll
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\bin\Debug\net8.0\Ascii_Maze.pdb
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\Ascii_Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\Ascii_Maze.AssemblyInfoInputs.cache
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\Ascii_Maze.AssemblyInfo.cs
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\Ascii_Maze.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\Ascii_Maze.sourcelink.json
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\Ascii_Maze.dll
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\refint\Ascii_Maze.dll
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\Ascii_Maze.pdb
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\Ascii_Maze.genruntimeconfig.cache
+C:\Users\Raphael\Documents\GitHub\C-sharp-asciil-maze\Ascii_Maze\obj\Debug\net8.0\ref\Ascii_Maze.dll
